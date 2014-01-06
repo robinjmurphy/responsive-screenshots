@@ -1,0 +1,20 @@
+{
+  "all": {
+    "widths": [ 240, 400, 600, 768, 1008 ],
+    "cookies": [
+      {
+        "name": "ckns_policy",
+        "value": "111",
+        "domain": "bbc.co.uk"
+      }
+    ],
+    "timeout": 1000,
+    "height": 768
+  },
+  "sets": [
+    {
+      "id": "bbc_tv",
+      "url": "http://www.bbc.co.uk/tv"
+    }
+  ]
+}
