@@ -110,4 +110,4 @@ If you want to share configuration for multiple sets (e.g. same widths, cookies 
 }
 ```
 
-The configuration options in the `all` section will be use for all of the `sets`.
+The configuration options in the `all` section will be used for all of the `sets`.
