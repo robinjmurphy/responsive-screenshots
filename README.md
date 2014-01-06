@@ -1,6 +1,6 @@
 # responsive-screenshots
 
-A PhantomJS script to create web screenshots at different viewport widths, as defined in a JSON config file.
+A [PhantomJS](http://phantomjs.org/) script to create web screenshots at different viewport widths, as defined in a JSON config file.
 
 ## Usage
 
