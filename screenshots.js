@@ -4,7 +4,7 @@ var args = require('system').args,
     fs = require('fs'),
     page = require('webpage').create(),
     DEFAULT_CONFIG_FILE = 'config.json',
-    DEFAULT_TIMEOUT = 1000,
+    DEFAULT_TIMEOUT = 500,
     DEFAULT_HEIGHT = 1000,
     DEFAULT_COOKIES = [];
 
